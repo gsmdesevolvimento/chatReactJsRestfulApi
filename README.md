@@ -1,12 +1,8 @@
-Chat web feito em React.
+### Protótipo de bate-papo web feito em React.js integrado a api Restful (A api feita em Node.js com noSql database encontra-se em meu github).
 
-# Execute npm install
+#### Instalação:
+1. Execute npm install e após instalar os pacotes:
+2. Execute npm run serve
+3. O chat rodará em http://localhost:3333 abrir essa url no seu navegador
 
-Após instalar os pacotes
-
-# Execute npm start
-
-# O chat rodará em http://localhost:3333
-
-# O chat depende de uma api feita em node.js
-# Você poderá encontrar o repositório através do meu perfil no github.
+#### Autor: eu, gsm.dados@gmail.com / Linkedin: https://www.linkedin.com/in/gsmdados
